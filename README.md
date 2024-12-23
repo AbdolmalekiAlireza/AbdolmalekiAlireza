@@ -15,7 +15,7 @@
 💡 My expertise includes BIM-BEM integration, Life Cycle Assessment (LCA), and leveraging AI and machine learning in the AEC sector.
 
 <!-- Adding image on the right side -->
-<img align= "right" alt="coding" width="300" src="https://github.com/AbdolmalekiAlireza/Alireza-Abdolmaleki/blob/main/Logo.jpg">
+<img align= "right" alt="coding" width="300" src="https://github.com/AbdolmalekiAlireza/AbdolmalekiAlireza/blob/main/Logo.jpg">
  
 </div>
 
